@@ -29,7 +29,7 @@ const Process = () => {
                     <p>The koji rice is mixed with water to form a mash called "moromi," which is then fermented for 1-2 weeks.</p>
                     <button>LEARN MORE</button>
                 </div>
-                <div ref={ref3} className={`${styles.process_card4} ${inView4 ? styles.animateprocess_card4 : ''}`}>
+                <div ref={ref4} className={`${styles.process_card4} ${inView4 ? styles.animateprocess_card4 : ''}`}>
                     <h1>AGING</h1>
                     <p>The sake is filtered, bottled, and aged for several months to a year to develop a deeper, smoother flavor.</p>
                     <button>LEARN MORE</button>

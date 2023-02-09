@@ -261,11 +261,12 @@
     text-align: center;
     height: 300px;
     width: 200px;
+    transition: 1s;
   }
 
   .animateprocess_card1 {
     transition: 1s;
-    transition-delay: .5s;
+    transition-delay: 0s;
     transform: translateY(1rem) scale(110%);
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   }
@@ -282,11 +283,12 @@
     text-align: center;
     height: 300px;
     width: 200px;
+    transition: 1s;
   }
 
   .animateprocess_card2 {
     transition: 1s;
-    transition-delay: .5s;
+    transition-delay: 0s;
     transform: translateY(1rem) scale(110%);
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   }
@@ -303,11 +305,12 @@
     text-align: center;
     height: 300px;
     width: 200px;
+    transition: 1s;
   }
 
   .animateprocess_card3 {
     transition: 1s;
-    transition-delay: .5s;
+    transition-delay: 0s;
     transform: translateY(1rem) scale(110%);
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   }
@@ -324,11 +327,12 @@
     text-align: center;
     height: 300px;
     width: 200px;
+    transition: 1s;
   }
 
   .animateprocess_card4 {
     transition: 1s;
-    transition-delay: .5s;
+    transition-delay: 0s;
     transform: translateY(1rem) scale(110%);
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   }
