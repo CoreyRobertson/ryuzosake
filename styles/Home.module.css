@@ -286,7 +286,7 @@
 
   .animateprocess_card2 {
     transition: 1s;
-    transition-delay: .6s;
+    transition-delay: .5s;
     transform: translateY(1rem) scale(110%);
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   }
@@ -307,7 +307,7 @@
 
   .animateprocess_card3 {
     transition: 1s;
-    transition-delay: .7s;
+    transition-delay: .5s;
     transform: translateY(1rem) scale(110%);
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   }
@@ -328,7 +328,7 @@
 
   .animateprocess_card4 {
     transition: 1s;
-    transition-delay: .8s;
+    transition-delay: .5s;
     transform: translateY(1rem) scale(110%);
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   }
