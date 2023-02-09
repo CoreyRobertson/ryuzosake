@@ -378,6 +378,16 @@
 }
 
 @media screen and (max-width: 1800px) {
+
+  .header_kanjinav {
+    color: var(--color-white);
+    padding-top: 1rem;
+    font-family: var(--font-heading);
+    font-weight: lighter;
+    letter-spacing: 10px;
+    transition: .5s;
+  }
+
   .kanji {
     height: 75%;
   }
